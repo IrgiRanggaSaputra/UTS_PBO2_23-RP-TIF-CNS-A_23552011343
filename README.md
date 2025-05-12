@@ -162,5 +162,5 @@ Kembalian     : Rp20000.00
 ## Demo Proyek
 <ul>
   <li>Github: <a href="https://github.com/IrgiRanggaSaputra/UTS_PBO2_23-RP-TIF-CNS-A_23552011343">Github</a></li>
-  <li>Youtube: <a href="">Youtube</a></li>
+  <li>Youtube: <a href="https://youtu.be/NBNj186Trf8">Youtube</a></li>
 </ul>
